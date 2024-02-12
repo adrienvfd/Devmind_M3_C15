@@ -1,0 +1,38 @@
+[
+  {
+    "courseName": "Java Full Stack & Frameworks - Developing Web-based Apps",
+    "trainer": {
+      "name": "Dan Popescu",
+      "zoomId": 123321
+    },
+    "online": true,
+    "courseDays": [
+      {
+        "day": "Monday",
+        "startingHour": "18:20"
+      },
+      {
+        "day": "Wednesday",
+        "startingHour": "18:20"
+      }
+    ]
+  },
+  {
+    "courseName": "Java Basics",
+    "trainer": {
+      "name": "Adrien Popescu",
+      "zoomId": 123322
+    },
+    "online": false,
+    "courseDays": [
+      {
+        "day": "Tuesday",
+        "startingHour": "18:20"
+      },
+      {
+        "day": "Friday",
+        "startingHour": "18:20"
+      }
+    ]
+  }
+]
